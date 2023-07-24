@@ -7,3 +7,14 @@ SOP         - Statement of Purpose
 LOR         - Letter of Recommendation
 University Rating
 Research Experience
+
+Random Forest Classifier is used to predict the chances of admission  to a University based on factors like GRE Score, 
+TOEFL Score, University Rating, SOP, LOR, CGPA and Research.
+
+Observation:
+
+1. High accuracy is obtained. 
+
+2. Positive correlation between GRE Score, TOEFL Score and CGPA
+
+
